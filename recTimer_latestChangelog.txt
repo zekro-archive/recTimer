@@ -1,0 +1,6 @@
++ Design der Statusbars erneuert
++ Rotfärbung der Statusbars bei kritischen Werten
++ Neuer Updatemechanismus mit neuem Update-Center
+/ Bugs behoben
+/ Code aufgeräumt und kommentiert
+/ Projekt zu "/recTimer" verschoben
