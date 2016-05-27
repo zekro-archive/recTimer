@@ -1,0 +1,33 @@
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\bin\Debug\recTimer.exe.config
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.exe
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.pdb
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\bin\Debug\recTimer.exe.manifest
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\bin\Debug\recTimer.application
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\bin\Debug\recTimer.exe
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\bin\Debug\recTimer.pdb
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.Form1.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.frmInfo.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.frmSettings.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.Properties.Resources.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.csproj.GenerateResource.Cache
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.exe.manifest
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer - Kopie\recTimer\obj\Debug\recTimer.application
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\bin\Debug\recTimer.exe.config
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\bin\Debug\recTimer.exe.manifest
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\bin\Debug\recTimer.application
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\bin\Debug\recTimer.exe
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\bin\Debug\recTimer.pdb
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.AboutBox1.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.Form1.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.frmCustomExcBox.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.frmInfo.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.frmPrPro.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.frmSettings.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.Properties.Resources.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.csproj.GenerateResource.Cache
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.exe.manifest
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.application
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.exe
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.pdb
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.frmUpdateMessage.resources
+C:\Users\Ringo Hoffmann\Documents\Visual Studio 2015\Projects\recTimer\recTimer\obj\Debug\recTimer.csprojResolveAssemblyReference.cache
