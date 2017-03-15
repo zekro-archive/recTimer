@@ -56,10 +56,10 @@ Hier kannst du die neuste Version herunterladen: https://github.com/zekroTJA/zek
 
 #### HOMEPAGE & SOCIAL NETWORKS
 
-- Homepage: http://zekro.jimdo.com
+- Homepage: http://zekro.de
 - YouTube: http://youtube.com/zekrommaster110
-- Twitter: http://twitter.com/zekrommaster110
+- Twitter: http://twitter.com/zekrotja
 
 ---
 
-CONTACT: zekroyt[@]outlook.de
+CONTACT: contact[@]zekro.de
